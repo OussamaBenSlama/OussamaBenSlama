@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I'm Oussama 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/oussama-ben-slama/">
-      <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <a href="https://github.com/OussamaBenSlama">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" align="right" width="25%"/>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
-<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" align="right" width="25%">
+<p align="center">
+    <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250">
+</p>
 
 <h2 align="center"><b>I'm passionate about absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products that people love to use🌍!</b></h2>
+
 I enjoy working with technologies like ReactJS, React-Native, Next.js, and Django.
 
 - 🔭 I'm the Founder of [Mentorini](https://mentorini.tn/), an application dedicated to helping Tunisian students succeed in their education and start their careers.
