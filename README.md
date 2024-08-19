@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Oussama 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/oussama-ben-slama/">
+      <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/OussamaBenSlama">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" align="right" width="25%"/>
+    </a>
+</p>
+<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" align="right" width="25%">
 
-<!--
-**OussamaBenSlama/OussamaBenSlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><b>I'm passionate about absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products that people love to use🌍!</b></h2>
+I enjoy working with technologies like ReactJS, React-Native, Next.js, and Django.
 
-Here are some ideas to get you started:
+- 🔭 I'm the Founder of [Mentorini](https://mentorini.tn/), an application dedicated to helping Tunisian students succeed in their education and start their careers.
+- 🔍 I have two live apps: 
+  - [Mentorini](https://mentorini.tn/)
+  - [MyLaptop](https://mylaptop.vercel.app/)
+- 👯 I’m looking to collaborate on impactful projects.
+- 💼 Check out my [Portfolio](https://ben-slama.tn/)
+- 📫 How to reach me: hello@ben-slama.tn
+- 🏆 I love competitive programming: Find me on [Codeforces](https://codeforces.com/profile/benslamaoussama1919) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaBenSlama&show_icons=true&title_color=ffffff&icon_color=0077b5&text_color=ffffff&bg_color=151515)](https://github.com/OussamaBenSlama)
+![Profile Views](https://komarev.com/ghpvc/?username=OussamaBenSlama&color=blue)
