@@ -11,9 +11,9 @@
     <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250">
 </p>
 
-<h2 align="center"><b>I'm passionate about absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products that people love to use🌍!</b></h2>
+<h2 align="center"><b>I love building apps that solve problems</b></h2>
 
-I enjoy working with technologies like ReactJS, React-Native, Next.js, and Django.
+I enjoy working with technologies like ReactJS, Next.js, and Django. I'm also exploring the exciting world of computer vision and its transformative impact on robotics 🤖.
 
 - 🔭 I'm the Founder of [Mentorini](https://mentorini.tn/), an application dedicated to helping Tunisian students succeed in their education and start their careers.
 - 🔍 I have two live apps: 
@@ -22,7 +22,8 @@ I enjoy working with technologies like ReactJS, React-Native, Next.js, and Djang
 - 👯 I’m looking to collaborate on impactful projects.
 - 💼 Check out my [Portfolio](https://ben-slama.tn/)
 - 📫 How to reach me: hello@ben-slama.tn
+- 👨‍💻 Founder of [Open Source Tunisia](https://github.com/Open-Source-Tunisia)
 - 🏆 I love competitive programming: Find me on [Codeforces](https://codeforces.com/profile/benslamaoussama1919) 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaBenSlama&show_icons=true&title_color=ffffff&icon_color=0077b5&text_color=ffffff&bg_color=151515)](https://github.com/OussamaBenSlama)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaBenSlama&show_icons=true&title_color=ffffff&icon_color=0077b5&text_color=ffffff&bg_color=151515)](https://github.com/OussamaBenSlama)<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=OussamaBenSlama&color=blue)
