@@ -11,14 +11,14 @@
     <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250">
 </p>
 
-<h2 align="center"><b>I love building apps that solve problems</b></h2>
+<h2 align="center"><b>I love Creating Solutions with LLMs & Agentic AI</b></h2>
 
-I enjoy working with technologies like ReactJS, Next.js, and Django. I'm also exploring the exciting world of computer vision and its transformative impact on robotics 🤖.
+I'm a software developer specializing in AI systems, computer vision, and intelligent agents. Passionate about using technology to solve real-world problems.
 
 - 🔭 I'm the Founder of [Mentorini](https://mentorini.tn/), an application dedicated to helping Tunisian students succeed in their education and start their careers.
-- 🔍 I have two live apps: 
-  - [Mentorini](https://mentorini.tn/)
-  - [MyLaptop](https://mylaptop.vercel.app/)
+
+  
+- [Mentorini](https://mentorini.tn/)
 - 👯 I’m looking to collaborate on impactful projects.
 - 💼 Check out my [Portfolio](https://ben-slama.tn/)
 - 📫 How to reach me: hello@ben-slama.tn
