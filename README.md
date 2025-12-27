@@ -44,3 +44,5 @@ I'm Oussama, an AI engineer early in my research journey. My main advantage is m
 * [LinkedIn](https://www.linkedin.com/in/oussama-ben-slama/)
 * [Hugging Face](https://huggingface.co/OussamaBenSlama)
 * [Codeforces](https://codeforces.com/profile/benslamaoussama1919)
+
+![Profile Views](https://komarev.com/ghpvc/?username=OussamaBenSlama&color=blue)
