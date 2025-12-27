@@ -13,13 +13,34 @@
 
 <h2 align="center"><b>AI Engineer | Building Solutions with LLMs & Agentic AI</b></h2>
 
-I'm Oussama, an AI engineer. I'm a new homie in the field of AI research. 
-I don’t care about technologies and code as much as I care about how systems can solve problems. I’m not the best coder or a master of any specific technology, but you could say I think about how to build efficient systems and how things should work together.
+I'm Oussama, an AI engineer early in my research journey. My main advantage is my focus on how systems work as a whole. I care about designing solutions that are scalable, performant, and reliable, not just products built with trendy technologies.
 
-- Check out my [Portfolio](https://ben-slama.tn/)
-- How to reach me: oussama@ben-slama.tn
-- Founder of [Open Source Tunisia](https://www.linkedin.com/company/open-source-tunisia/)
-- I love competitive programming: Find me on [Codeforces](https://codeforces.com/profile/benslamaoussama1919) 
+**What I work on**
+- Fine-tuning small language models adapted to specific tasks or domains
+- Data collection and data engineering for domain-specific applications
+- RAG systems at scale: simple pipelines → agentic RAG → hybrid search → local RAG
+- AI agents for production use: single-agent, multi-agent, MCP-based, browser agents, voice agents, and local agents
+- Optimizing deep learning architectures for domain-specific constraints and efficient deployment
+- Arabic NLP and Arabic OCR, contributing to the Arabic AI ecosystem
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaBenSlama&show_icons=true&title_color=ffffff&icon_color=0077b5&text_color=ffffff&bg_color=151515)](https://github.com/OussamaBenSlama)<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=OussamaBenSlama&color=blue)
+## Latest Articles
+
+* [Arabic OCR: From Image to Semantic HTML](https://medium.com/@benslamaoussama1919/arabic-ocr-from-image-to-semantic-html-2ad402701382)
+
+---
+
+## Latest Contributions
+
+* **Co-Founder**, [TunisIA Co-Lab](https://www.linkedin.com/company/tunisia-co-lab/): a collaborative space bringing together Tunisia’s AI researchers, students, and professionals.
+* **Founder**, [Open Source Tunisia](https://www.linkedin.com/company/open-source-tunisia/): promoting Tunisian open-source software by showcasing projects and individual contributions.
+* **Mentor**: helping students and high-school learners advance their problem-solving skills.
+
+---
+
+## About Me
+
+* [Portfolio](https://ben-slama.tn/)
+* Email: [oussama@ben-slama.tn](mailto:oussama@ben-slama.tn)
+* [LinkedIn](https://www.linkedin.com/in/oussama-ben-slama/)
+* [Hugging Face](https://huggingface.co/OussamaBenSlama)
+* [Codeforces](https://codeforces.com/profile/benslamaoussama1919)
