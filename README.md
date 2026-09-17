@@ -11,38 +11,68 @@
     <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="250">
 </p>
 
-<h2 align="center"><b>AI Engineer | Building Solutions with LLMs & Agentic AI</b></h2>
+<h2 align="center"><b>AI Engineer | LLMs, Agentic AI & AI Security</b></h2>
 
-I'm Oussama, an AI engineer early in my research journey. My main advantage is my focus on how systems work as a whole. I care about designing solutions that are scalable, performant, and reliable, not just products built with trendy technologies.
+I'm Oussama, an AI Engineer interested in building **reliable, efficient, and production-ready AI systems**.
 
-**What I work on**
-- Fine-tuning small language models adapted to specific tasks or domains
-- Data collection and data engineering for domain-specific applications
-- RAG systems at scale: simple pipelines → agentic RAG → hybrid search → local RAG
-- AI agents for production use: single-agent, multi-agent, MCP-based, browser agents, voice agents, and local agents
-- Optimizing deep learning architectures for domain-specific constraints and efficient deployment
-- Arabic NLP and Arabic OCR, contributing to the Arabic AI ecosystem
+I enjoy working across the full AI stack, from data and model fine-tuning to agentic systems, backend infrastructure, deployment, and system optimization. Alongside AI engineering, I'm also exploring **AI Security**, with a focus on testing, evaluating, and protecting AI systems in production.
 
-## Latest Articles
+## What I Work On
+
+* **LLMs & Fine-Tuning**
+
+  * Fine-tuning small language models for specific tasks and domains
+  * Dataset creation, synthetic data generation, and data engineering
+  * Model optimization for domain-specific constraints and efficient deployment
+
+* **Agentic AI**
+
+  * Multi-agent systems
+  * Agentic RAG, MCP-based agents, browser agents, voice agents, and local agents
+  * Context management, memory, tool use, and agent reliability
+
+* **RAG & AI Applications**
+
+  * RAG pipelines from simple retrieval to agentic and hybrid architectures
+  * Local and domain-specific RAG systems
+  * Production-oriented AI applications and APIs
+
+* **AI Security**
+
+  * LLM security and AI safety
+  * Prompt injection and jailbreak mitigation
+  * AI evaluation and red teaming
+  * Building infrastructure for securing AI systems in production
+
+* **Arabic AI**
+
+  * Arabic NLP and OCR
+  * Building AI systems adapted to Arabic and MENA-specific use cases
+  * Contributing to the Arabic AI ecosystem
+
+## Current Focus
+
+Currently, I'm working on **Qarai**, an AI security initiative focused on building infrastructure to help AI systems become safer and more production-ready, with a particular focus on **Arabic and the MENA market**.
+
+
+## Selected Projects
+- **[Qarai Agent Guard](https://github.com/qarai-labs/qarai-agent-guard/)** — An open-source toolkit for building secure AI systems with middleware, protected memory, and AI safety models to help mitigate prompt injection, jailbreaks, and adversarial attacks.
+
+## Latest Article
 
 * [Arabic OCR: From Image to Semantic HTML](https://medium.com/@benslamaoussama1919/arabic-ocr-from-image-to-semantic-html-2ad402701382)
 
----
+## Community & Contributions
 
-## Latest Contributions
+* **Co-Founder — TunisIA Co-Lab:** A collaborative space bringing together Tunisia's AI researchers, students, and professionals.
+* **Founder — Open Source Tunisia:** Promoting Tunisian open-source software by showcasing projects and individual contributions.
+* **Mentor:** Helping students and high-school learners develop their problem-solving and technical skills.
 
-* **Co-Founder**, [TunisIA Co-Lab](https://www.linkedin.com/company/tunisia-co-lab/): a collaborative space bringing together Tunisia’s AI researchers, students, and professionals.
-* **Founder**, [Open Source Tunisia](https://www.linkedin.com/company/open-source-tunisia/): promoting Tunisian open-source software by showcasing projects and individual contributions.
-* **Mentor**: helping students and high-school learners advance their problem-solving skills.
 
----
 
-## About Me
+## Connect
 
 * [Portfolio](https://ben-slama.tn/)
-* Email: [oussama@ben-slama.tn](mailto:oussama@ben-slama.tn)
 * [LinkedIn](https://www.linkedin.com/in/oussama-ben-slama/)
 * [Hugging Face](https://huggingface.co/OussamaBenSlama)
-* [Codeforces](https://codeforces.com/profile/benslamaoussama1919)
-
-![Profile Views](https://komarev.com/ghpvc/?username=OussamaBenSlama&color=blue)
+* Email: [oussama@ben-slama.tn](mailto:oussama@ben-slama.tn)
